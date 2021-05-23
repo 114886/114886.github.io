@@ -1,13 +1,13 @@
 # Site settings | 网站设置
-title: RainbomSea
-SEOTitle: RainbomSea的博客 | RaimbomSea
+title: HZCann
+SEOTitle: HZCann的博客 | RaimbomSea
 header-img: img/home-bg-he.png
-email: RainbomSea@qq.com
-description: "RainbomSea的博客"
-keyword: "RainbomSea, RainbomSea的博客, rainbom sea, rainbomsea, Python blog"
-url: "http://RainbomSea.github.io"          # your host, for absolute URL
+email: 1148864234@qq.com
+description: "HZCann的博客"
+keyword: "HZCann, HZCann的博客"
+url: "http://HZCann.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/RainbomSea/RainbomSea.github.io.git" #code repository | 代码仓库
+github_repo: "https://github.com/114886/hzcann.github.io.git" #code repository | 代码仓库
 
 
 # Sidebar settings | 侧边栏设置
@@ -20,7 +20,7 @@ sidebar-avatar: /img/head.jpg      # 头像
 
 
 # SNS settings | 社交网络设置
-github_username: RainbomSea
+github_username: 114886
 
 
 
@@ -57,12 +57,12 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    # 是否开启Gitalk评论
+  enable: false    # 是否开启Gitalk评论
   clientID: 99ecf1fdc9b7e357ebb7                            #生成的clientID
   clientSecret: 2670daea0c10372dd0296c371edc5ee4e73db43f    #生成的clientSecret
-  repo: RainbomSea.github.io    #仓库名称
-  owner: RainbomSea    # github用户名
-  admin: RainbomSea
+  repo: hzcann.github.io.git    #仓库名称
+  owner: 114886    # github用户名
+  admin: 114886
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
 
 
