@@ -5,7 +5,7 @@ header-img: img/home-bg-he.png
 email: 1148864234@qq.com
 description: "HZCann的博客"
 keyword: "HZCann, HZCann的博客"
-url: "http://hzcann.github.io/"          # your host, for absolute URL
+url: "http://hzcann.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/114886/hzcann.github.io.git" #code repository | 代码仓库
 
