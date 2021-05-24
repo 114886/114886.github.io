@@ -1,14 +1,14 @@
 {
-    "name": "RainbomSea",
-    "title": "RainbomSea",
-    "author": "BY <RainbomSea@qq.com>",
+    "name": "114886",
+    "title": "114886",
+    "author": "BY <1148864234@qq.com>",
     "version": "1.1.0",
-    "homepage": "http://RainbomSea.github.io",
+    "homepage": "http://114886.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/RainbomSea/RainbomSea.github.io"
+        "url": "https://github.com/114886/hzcann.github.io"
     },
-    "bugs": "https://github.com/RainbomSea/RainbomSea.github.io/issues",
+    "bugs": "https://github.com/114886/hzcann.github.io/issues",
     "devDependencies": {
         "grunt": ">=1.3.0",
         "grunt-contrib-less": "~0.11.4",
